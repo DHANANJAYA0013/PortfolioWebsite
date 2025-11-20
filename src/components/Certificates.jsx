@@ -91,7 +91,7 @@ const Certificates = () => {
   return (
     <section id="certificates" className="certificates">
       <div className="certificates-container">
-        <h2 className="section-title">Certificates & Achievements</h2>
+        <h2 className="section-title">Certificates & Achievements</h2><br />
         <p className="section-subtitle">
           Professional certifications and completed courses
         </p>

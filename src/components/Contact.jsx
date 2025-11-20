@@ -36,12 +36,12 @@ const Contact = () => {
         </p>
         
         <div className="contact-content">
-          <div className="contact-info">
+          {/* <div className="contact-info">
             <h3>Get In Touch</h3>
             <p className="connect-description">
               I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
             </p>
-          </div>
+          </div> */}
 
           <form className="contact-form" ref={formRef} onSubmit={handleSubmit}>
             <div className="form-group">
@@ -96,7 +96,7 @@ const Contact = () => {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Dhananjaya</h3>
-            <p>Web Developer passionate about creating exceptional digital experiences.</p>
+            <p>Full Stack Developer passionate about creating exceptional digital experiences.</p>
           </div>
           
           <div className="footer-section">

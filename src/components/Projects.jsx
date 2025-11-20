@@ -28,7 +28,7 @@ const Projects = () => {
       description:
         'A fully responsive personal portfolio built with React and Vite. Features smooth animations, project showcase, contact form with EmailJS integration, and modern UI design.',
       technologies: ['React', 'Vite', 'CSS3', 'EmailJS'],
-      github: 'https://github.com/DHANANJAYA0013/Portfolio1',
+      github: 'https://github.com/DHANANJAYA0013/PortfolioWebsite',
     },
     {
       title: 'Employee Management System',

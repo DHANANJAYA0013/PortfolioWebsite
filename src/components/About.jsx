@@ -14,7 +14,7 @@ const About = () => {
             <div className="intro-text">
               <h3>Hello! I'm Dhananjaya</h3>
               <p>
-                A dedicated web developer with a passion for creating innovative 
+                A dedicated full stack developer with a passion for creating innovative 
                 web solutions. I specialize in building responsive, accessible, and 
                 user-friendly applications that make a difference.
               </p>
