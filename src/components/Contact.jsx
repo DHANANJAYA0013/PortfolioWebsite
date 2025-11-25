@@ -96,7 +96,7 @@ const Contact = () => {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Dhananjaya</h3>
-            <p>Full Stack Developer passionate about creating exceptional digital experiences.</p>
+            <p>Web Developer passionate about creating exceptional digital experiences.</p>
           </div>
           
           <div className="footer-section">
